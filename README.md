@@ -1,0 +1,2 @@
+# ambatis
+first repo
